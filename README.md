@@ -15,4 +15,4 @@
 - Open Source.
 
 ## Gameplay Video
-[<img src="https://i.imgur.com/gRJlpgO.png" width="50%">](https://www.youtube.com/watch?v=nlXg_vLNsQA&t=3s)
+[<img src="https://i.imgur.com/gRJlpgO.png" width="50%">](https://www.youtube.com/watch?v=nlXg_vLNsQA&t)
